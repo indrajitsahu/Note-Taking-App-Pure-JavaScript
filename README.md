@@ -2,6 +2,8 @@
 
 This is a note taking app where you can take you notes through your browser. 
 
+![image](https://user-images.githubusercontent.com/76425862/157182793-5335eb40-1498-4b38-83fe-68373af01de7.png)
+
 It is totally made using JavaScript and for styling part I used BootStrap for more responsiveness and clean interface.
 
 Feel free to use it and **bookmark in your browser**, it will help you in instantly note down your random throughs or useful for note down any algorithm of any coding questions.
